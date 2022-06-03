@@ -1,4 +1,4 @@
-**Sheepshead Game - 2021 Computer Science AP Final Project**
+**Sheepshead Game - 2021 Computer Science AP Final Project Semester 1**
 
 **Usage:**
 
